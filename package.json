@@ -1,5 +1,5 @@
 {
-  "name": "@wj/stylelint-config",
+  "name": "stylelint-config-wj",
   "version": "1.0.0",
   "description": "wj's Stylelint config",
   "main": "index.js",

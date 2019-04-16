@@ -1,0 +1,27 @@
+{
+  "name": "@wj/stylelint-config",
+  "version": "1.0.0",
+  "description": "wj's Stylelint config",
+  "main": "index.js",
+  "bin": {
+    "stylelint": "bin/stylelint.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": " https://github.com/jessjava/stylelint-config-wj.git"
+  },
+  "keywords": [
+    "stylelint"
+  ],
+  "dependencies": {
+    "stylelint": "^9.0.0",
+    "stylelint-config-standard": "^18.2.0",
+    "stylelint-order": "^2.1.0",
+    "stylelint-scss": "^3.5.3"
+  },
+  "author": "wujia8@jd.com",
+  "license": "MIT"
+}
